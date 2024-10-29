@@ -1,0 +1,16 @@
+.btn-grey{
+	background: #8c8c8c;
+	padding: 5px;
+	text-decoration: none;
+	color: black;
+	border-radius: 2px;
+	transition: 0.3s ease;
+	font-family: "Roboto", serif;
+	font-weight: bolder;
+	white-space: nowrap;
+}
+
+.btn-grey:hover{
+	background: #DBDBDB;
+	font-size: 19px;
+}
